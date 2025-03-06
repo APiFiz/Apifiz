@@ -1,16 +1,15 @@
-## Hi there 👋
+# JNU Fixed Searchable Map
 
-<!--
-**APiFiz/Apifiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This project creates an interactive map of Jawaharlal Nehru University (JNU), Delhi, with key locations such as hostels, schools, libraries, and dhabas marked. The map is generated using the `folium` library and includes a search functionality for easy navigation.
 
-Here are some ideas to get you started:
+## Features
+- Interactive map centered around JNU.
+- Markers for important locations including hostels, schools, dhabas, and landmarks.
+- Search functionality to quickly find specific locations.
+- Color-coded markers (Blue for general locations, Green for dhabas).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Requirements
+To run this project, you need to install `folium`:
+```bash
+pip install folium
